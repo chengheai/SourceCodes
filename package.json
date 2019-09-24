@@ -1,0 +1,25 @@
+{
+  "name": "SourceCodes",
+  "version": "1.0.0",
+  "description": "for read source code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengheai/SourceCodes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chengheai/SourceCodes/issues"
+  },
+  "homepage": "https://github.com/chengheai/SourceCodes#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "react": "^16.9.0",
+    "vue": "^2.6.10"
+  }
+}
